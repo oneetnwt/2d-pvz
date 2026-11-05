@@ -1,0 +1,30 @@
+WINDOW_WIDTH = 1280
+WINDOW_HEIGHT = 720
+
+WINDOW_TITLE = "Plants vs. Zombie"
+
+FPS = 60
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (87, 166, 74)
+LIGHT_GREEN = (119, 190, 91)
+DARK_GREEN = (65, 140, 58)
+
+GRID_ROWS = 5
+GRID_COLS = 9
+
+CELL_WIDTH = 100
+CELL_HEIGHT = 100
+
+GRID_X = 150
+GRID_Y = 120
+
+PLANT_COST = 50
+
+# Game States
+GAME_RUNNING = "running"
+GAME_OVER = "game_over"
+GAME_MENU = "menu"
+GAME_RUNNING = "running"
+GAME_OVER = "game_over"
